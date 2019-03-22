@@ -1,0 +1,7 @@
+F:\FTP\Code\Chapter1\AsyncAwait\bin\Debug\AsyncAwait.exe.config
+F:\FTP\Code\Chapter1\AsyncAwait\bin\Debug\AsyncAwait.exe
+F:\FTP\Code\Chapter1\AsyncAwait\bin\Debug\AsyncAwait.pdb
+F:\FTP\Code\Chapter1\AsyncAwait\obj\Debug\AsyncAwait.csproj.CoreCompileInputs.cache
+F:\FTP\Code\Chapter1\AsyncAwait\obj\Debug\AsyncAwait.exe
+F:\FTP\Code\Chapter1\AsyncAwait\obj\Debug\AsyncAwait.pdb
+F:\FTP\Code\Chapter1\AsyncAwait\obj\Debug\AsyncAwait.csprojResolveAssemblyReference.cache

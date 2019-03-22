@@ -1,0 +1,5 @@
+c:\users\tudors\documents\visual studio 2015\Projects\Chapter1\ThreadPools\bin\Debug\ThreadPools.exe.config
+c:\users\tudors\documents\visual studio 2015\Projects\Chapter1\ThreadPools\bin\Debug\ThreadPools.exe
+c:\users\tudors\documents\visual studio 2015\Projects\Chapter1\ThreadPools\bin\Debug\ThreadPools.pdb
+c:\users\tudors\documents\visual studio 2015\Projects\Chapter1\ThreadPools\obj\Debug\ThreadPools.exe
+c:\users\tudors\documents\visual studio 2015\Projects\Chapter1\ThreadPools\obj\Debug\ThreadPools.pdb

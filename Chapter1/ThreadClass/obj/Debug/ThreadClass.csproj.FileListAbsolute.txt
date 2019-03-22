@@ -1,0 +1,6 @@
+c:\users\tudors\documents\visual studio 2015\Projects\Chapter1\ThreadClass\bin\Debug\ThreadClass.exe.config
+c:\users\tudors\documents\visual studio 2015\Projects\Chapter1\ThreadClass\bin\Debug\ThreadClass.exe
+c:\users\tudors\documents\visual studio 2015\Projects\Chapter1\ThreadClass\bin\Debug\ThreadClass.pdb
+c:\users\tudors\documents\visual studio 2015\Projects\Chapter1\ThreadClass\obj\Debug\ThreadClass.csprojResolveAssemblyReference.cache
+c:\users\tudors\documents\visual studio 2015\Projects\Chapter1\ThreadClass\obj\Debug\ThreadClass.exe
+c:\users\tudors\documents\visual studio 2015\Projects\Chapter1\ThreadClass\obj\Debug\ThreadClass.pdb

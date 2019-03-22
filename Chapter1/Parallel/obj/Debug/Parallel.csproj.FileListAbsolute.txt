@@ -1,0 +1,7 @@
+F:\FTP\Code\Chapter1\Parallel\bin\Debug\Parallel.exe.config
+F:\FTP\Code\Chapter1\Parallel\bin\Debug\Parallel.exe
+F:\FTP\Code\Chapter1\Parallel\bin\Debug\Parallel.pdb
+F:\FTP\Code\Chapter1\Parallel\obj\Debug\Parallel.csprojResolveAssemblyReference.cache
+F:\FTP\Code\Chapter1\Parallel\obj\Debug\Parallel.csproj.CoreCompileInputs.cache
+F:\FTP\Code\Chapter1\Parallel\obj\Debug\Parallel.exe
+F:\FTP\Code\Chapter1\Parallel\obj\Debug\Parallel.pdb

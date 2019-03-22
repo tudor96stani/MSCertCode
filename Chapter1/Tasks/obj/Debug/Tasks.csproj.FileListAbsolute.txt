@@ -1,0 +1,5 @@
+c:\users\tudors\documents\visual studio 2015\Projects\Chapter1\Tasks\bin\Debug\Tasks.exe.config
+c:\users\tudors\documents\visual studio 2015\Projects\Chapter1\Tasks\bin\Debug\Tasks.exe
+c:\users\tudors\documents\visual studio 2015\Projects\Chapter1\Tasks\bin\Debug\Tasks.pdb
+c:\users\tudors\documents\visual studio 2015\Projects\Chapter1\Tasks\obj\Debug\Tasks.exe
+c:\users\tudors\documents\visual studio 2015\Projects\Chapter1\Tasks\obj\Debug\Tasks.pdb
