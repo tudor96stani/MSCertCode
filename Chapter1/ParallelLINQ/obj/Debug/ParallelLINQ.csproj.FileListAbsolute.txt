@@ -1,0 +1,7 @@
+F:\FTP\MSCertCode\Chapter1\ParallelLINQ\bin\Debug\ParallelLINQ.exe.config
+F:\FTP\MSCertCode\Chapter1\ParallelLINQ\bin\Debug\ParallelLINQ.exe
+F:\FTP\MSCertCode\Chapter1\ParallelLINQ\bin\Debug\ParallelLINQ.pdb
+F:\FTP\MSCertCode\Chapter1\ParallelLINQ\obj\Debug\ParallelLINQ.csprojResolveAssemblyReference.cache
+F:\FTP\MSCertCode\Chapter1\ParallelLINQ\obj\Debug\ParallelLINQ.csproj.CoreCompileInputs.cache
+F:\FTP\MSCertCode\Chapter1\ParallelLINQ\obj\Debug\ParallelLINQ.exe
+F:\FTP\MSCertCode\Chapter1\ParallelLINQ\obj\Debug\ParallelLINQ.pdb

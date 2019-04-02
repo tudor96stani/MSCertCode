@@ -1,0 +1,7 @@
+F:\FTP\MSCertCode\Chapter1\ConcurrentCollections\bin\Debug\ConcurrentCollections.exe.config
+F:\FTP\MSCertCode\Chapter1\ConcurrentCollections\bin\Debug\ConcurrentCollections.exe
+F:\FTP\MSCertCode\Chapter1\ConcurrentCollections\bin\Debug\ConcurrentCollections.pdb
+F:\FTP\MSCertCode\Chapter1\ConcurrentCollections\obj\Debug\ConcurrentCollections.csprojResolveAssemblyReference.cache
+F:\FTP\MSCertCode\Chapter1\ConcurrentCollections\obj\Debug\ConcurrentCollections.csproj.CoreCompileInputs.cache
+F:\FTP\MSCertCode\Chapter1\ConcurrentCollections\obj\Debug\ConcurrentCollections.exe
+F:\FTP\MSCertCode\Chapter1\ConcurrentCollections\obj\Debug\ConcurrentCollections.pdb
