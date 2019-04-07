@@ -1,0 +1,7 @@
+F:\FTP\MSCertCode\Chapter1\CancellingTasks\bin\Debug\CancellingTasks.exe.config
+F:\FTP\MSCertCode\Chapter1\CancellingTasks\bin\Debug\CancellingTasks.exe
+F:\FTP\MSCertCode\Chapter1\CancellingTasks\bin\Debug\CancellingTasks.pdb
+F:\FTP\MSCertCode\Chapter1\CancellingTasks\obj\Debug\CancellingTasks.csprojResolveAssemblyReference.cache
+F:\FTP\MSCertCode\Chapter1\CancellingTasks\obj\Debug\CancellingTasks.csproj.CoreCompileInputs.cache
+F:\FTP\MSCertCode\Chapter1\CancellingTasks\obj\Debug\CancellingTasks.exe
+F:\FTP\MSCertCode\Chapter1\CancellingTasks\obj\Debug\CancellingTasks.pdb

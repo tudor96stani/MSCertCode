@@ -1,0 +1,7 @@
+F:\FTP\MSCertCode\Chapter1\SynchronizingResources\bin\Debug\SynchronizingResources.exe.config
+F:\FTP\MSCertCode\Chapter1\SynchronizingResources\bin\Debug\SynchronizingResources.exe
+F:\FTP\MSCertCode\Chapter1\SynchronizingResources\bin\Debug\SynchronizingResources.pdb
+F:\FTP\MSCertCode\Chapter1\SynchronizingResources\obj\Debug\SynchronizingResources.csprojResolveAssemblyReference.cache
+F:\FTP\MSCertCode\Chapter1\SynchronizingResources\obj\Debug\SynchronizingResources.csproj.CoreCompileInputs.cache
+F:\FTP\MSCertCode\Chapter1\SynchronizingResources\obj\Debug\SynchronizingResources.exe
+F:\FTP\MSCertCode\Chapter1\SynchronizingResources\obj\Debug\SynchronizingResources.pdb
