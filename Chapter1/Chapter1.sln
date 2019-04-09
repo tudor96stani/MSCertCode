@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynchronizingResources", "S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CancellingTasks", "CancellingTasks\CancellingTasks.csproj", "{B700BB03-EF64-4E45-9319-8CEEE7D4A75A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates", "Delegates\Delegates.csproj", "{AD5DDE46-4230-4E70-B739-0F30F73A11DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{B700BB03-EF64-4E45-9319-8CEEE7D4A75A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B700BB03-EF64-4E45-9319-8CEEE7D4A75A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B700BB03-EF64-4E45-9319-8CEEE7D4A75A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD5DDE46-4230-4E70-B739-0F30F73A11DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD5DDE46-4230-4E70-B739-0F30F73A11DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD5DDE46-4230-4E70-B739-0F30F73A11DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD5DDE46-4230-4E70-B739-0F30F73A11DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
